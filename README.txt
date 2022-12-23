@@ -12,7 +12,7 @@ Purpose.
 
 3. Purchase the Unit by 10 Coin.
 
-4. Unit has four grades. ( Common, Rare, Unique, Legendary, Mythic )
+4. Unit has fifth grades. ( Common, Rare, Unique, Legendary, Mythic )
 
 5. Upgrade Unit to Clear the Boss.
 
